@@ -1,19 +1,7 @@
-.divider {
-	 position: relative;
-	 border-bottom: 1px solid #f0f0f0;
-	 margin-bottom: 30px;
-	 margin-top: 30px; }
-
-.divider2 {
-	 position: relative;
-	 border-bottom: 1px solid #f0f0f0;
-	 margin-bottom: 0px;
-	 margin-top: 30px; }
-
-.rowdark{
-    background-color: #333333;
-    color: white;
-    padding-left: 10px;
-    padding-bottom: 10px;
+/*-- scss:defaults --*/
+.splash {
+  background-image: "images/1280px-Austin_Skyline-1024x682.jpg";
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
