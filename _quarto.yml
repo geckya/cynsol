@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Soliz Law Group"
+  navbar:
+    logo: "images/SLG_black-01-e1443671002385.png"
+  search: false
+  page-footer:
+    left: <br><br>&copy; 2023 Cynthia Soliz
+    right:
+      - icon: phone
+        text: (512) 733-9083<br>please allow several days<br>for calls to be returned
+format:
+  html:
+    theme: slate
+    css: styles.css
+
